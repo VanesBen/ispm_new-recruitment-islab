@@ -11,8 +11,8 @@
         <a class="nav-link" aria-current="page" href="#section-1">IS Case Study Club Member</a>
         <a class="nav-link" aria-current="page" href="#section-2">IS Part-Time Lab Assistant</a>
         <a class="nav-link" aria-current="page" href="#section-3">IS Project Member</a>
-        <a class="nav-link ms-lg-6 " aria-current="page" href="{{ url('/login') }}">Sign-In
-          <img class="icon-signin" src="/image/icon-signin.png" alt="">
+        <a class="nav-link ms-lg-6 " aria-current="page" href="loginPage">Sign-In
+          <img class="icon-signin"  src="/image/icon-signin.png" alt="">
         </a>
       </div>
     </div>
